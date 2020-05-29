@@ -37,7 +37,7 @@ _As a site visitor, I want to know what the web page is called and to be able to
 
 1. This user story was developed locally on a brach called `title`.
 1. `Issue # 1` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #1`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-1`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -45,7 +45,6 @@ _As a site visitor, I want to know what the web page is called and to be able to
 ### HTML
 
 - A `header` element with a title, describing the web page.
-- A pleasant footer with copyrights.
 - A `nav` element with list of navigation links `Home`, `About`, `Services`,`Contact`.
 - A pleasant `footer` element with copyrights.
 
@@ -63,7 +62,7 @@ _As a site visitor, I want to see a greeting with a describtion of the web page_
 
 1. This user story was developed locally on a brach called `introduction`.
 1. `Issue # 2` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #2`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-2`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -76,6 +75,7 @@ _As a site visitor, I want to see a greeting with a describtion of the web page_
 
 - Layout styling for the `showcase` section.
 - Styling the showcase content and applying a nice background picture.
+- Applying `media queries` to enable webpage content to adapt to different screen sizes and resolutions.
 
 
 ## 3.  Features
@@ -86,7 +86,7 @@ _As a site visitor, I want to know what features the company offers_
 
 1. This user story was developed locally on a brach called `features`.
 1. `Issue # 3` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #3`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-3`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -106,13 +106,13 @@ _As a site visitor, I want to know what features the company offers_
 
 ## 4.  Info
 
-_As a site visitor, I want to know more additional information about the core features, that company offers.-
+_As a site visitor, I want to know more additional information about the core features, that company offers._
 
 ### Repository & Issue
 
 1. This user story was developed locally on a brach called `info`.
 1. `Issue # 4` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #4`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-4`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -138,7 +138,7 @@ _As a site visitor, I want to know how can I contact the company, some informati
 
 1. This user story was developed locally on a brach called `company`.
 1. `Issue # 5` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #5`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-5`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -166,7 +166,7 @@ _As a site visitor, I want to know more full information about the company, who 
 
 1. This user story was developed locally on a brach called `about_us`.
 1. `Issue # 6` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #6`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-6`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -194,7 +194,7 @@ _As a site visitor, I want to know more full information about services, that co
 
 1. This user story was developed locally on a brach called `services`.
 1. `Issue # 7` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #7`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-7`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -222,7 +222,7 @@ _As a site visitor, I want to be able to be in touch and to have the opportunity
 
 1. This user story was developed locally on a brach called `contact`.
 1. `Issue # 8` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #8`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-8`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
@@ -248,7 +248,7 @@ _As a site visitor, I want to be able to be in touch and to have the opportunity
 
 1. This user story was developed locally on a brach called `corrections`.
 1. `Issue # 9` was raised with details how to complete this work .
-1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes #9`. 
+1. After the whole changes on the current branch, the commit was linked to an existing issue by typing `Closes gh-9`. 
 1. A pull request was made to `master`.
 1. Changes were merged to `master`.
 
