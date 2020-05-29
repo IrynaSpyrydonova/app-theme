@@ -151,11 +151,15 @@ padding-bottom: 20px;
     border: 0;
 }
 
-
 /* Footer */
 #main-footer {
     background: #56a79a;
     color: white;
+}
+
+/* Page */
+#page {
+    margin-bottom: 40px;
 }
 
 /* Media Queries */
